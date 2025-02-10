@@ -1,0 +1,12 @@
+DAX---
+
+Average Sales Per Salesperson = 
+AVERAGEX(
+    VALUES('YourTable'[Salesperson]),
+    CALCULATE(SUM('YourTable'[SalesAmount]))
+
+Average Sales Per Salesperson = 
+AVERAGEX(
+    VALUES('Chocolates Data'[Sales Person]),
+    CALCULATE(SUM('Chocolates Data'[Amount]))
+)
