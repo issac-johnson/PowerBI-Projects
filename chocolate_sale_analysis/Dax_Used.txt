@@ -1,0 +1,7 @@
+1.The sales person who sold the most number of chocolates
+2.The country where the most choclates were sold done
+3.Total Boxes shipped across countries done
+
+The Salesperson Who Sold the Most Number of Chocolates" and "Average Sales per Salesperson" 
+
+2022 - January to August Analysis
